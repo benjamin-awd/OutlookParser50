@@ -3,6 +3,8 @@ Welcome to OutlookParser! As part of my final project for [Harvard's CS50x](http
 
 This application was created with the goal of automating a work process involving media monitoring i.e. saving and compiling details such as the date and title of a news article to an Excel spreadsheet.
 
+Please note that this was created for a very specific use-case -- you may have to 
+
 # Description
 ## Email Parser
 The email parser functions by querying the user for a folder path. The parser then checks for emails in the folder, and iterates over each email.
