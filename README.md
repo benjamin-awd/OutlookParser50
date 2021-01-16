@@ -3,7 +3,9 @@ Welcome to OutlookParser! As part of my final project for [Harvard's CS50x](http
 
 This application was created with the goal of automating a work process involving media monitoring i.e. saving and compiling details such as the date and title of a news article to an Excel spreadsheet.
 
+<p align="center">
 ![alt-text](/assets/email_parser.gif)
+</p>
 
 Please note that this email parser was created for a very specific use case. However, you should be able to repurpose the code for your own projects. A more detailed breakdown of the code is available on [Medium](https://towardsdatascience.com/creating-an-email-parser-with-python-and-sql-c79cb8771dac).
 
